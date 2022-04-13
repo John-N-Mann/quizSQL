@@ -1,4 +1,4 @@
 # quizSQL
-Basic quiz reviewing SQL queries of varied complexity.
+Basic SQL practice questions, quizzes, challenges.
 
-This was a job interview quiz sent to me and I thought it could be useful as a resource when reviewing SQL syntax.
+This includes a job interview and some standard quiz challenges thru the W3 resource website.
